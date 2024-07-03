@@ -1,0 +1,1 @@
+export const API_URL = "https://assigments-api.onrender.com/api";
